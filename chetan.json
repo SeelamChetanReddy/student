@@ -1,0 +1,120 @@
+[
+    {
+        "_id": "6673b33bc79f3ed745f08858",
+        "MovieName": "Bahubali",
+        "Year": 2015,
+        "DirectorName": "S. S. Rajamouli",
+        "Genre": "Historical Fiction",
+        "Cast": "Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia"
+    },
+    {
+        "_id": "6673b33bc79f3ed745f08859",
+        "MovieName": "Arjun Reddy",
+        "Year": 2017,
+        "DirectorName": "Sandeep Reddy Vanga",
+        "Genre": "Romantic Drama",
+        "Cast": "Vijay Deverakonda, Shalini Pandey"
+    },
+    {
+        "_id": "6673b33bc79f3ed745f0885a",
+        "MovieName": 3,
+        "Year": 2012,
+        "DirectorName": "Aishwarya Rajinikanth",
+        "Genre": "Romantic Psychological Thriller",
+        "Cast": "\t\nDhanush, Shruti Haasan"
+    },
+    {
+        "_id": "6673b33bc79f3ed745f0885b",
+        "MovieName": "Dil Se..",
+        "Year": 1998,
+        "DirectorName": "Mani Ratnam",
+        "Genre": "Romantic Thriller",
+        "Cast": "Shah Rukh Khan, Manisha Koirala, Preity Zinta"
+    },
+    {
+        "_id": "6673b33bc79f3ed745f0885c",
+        "MovieName": "Sanam Teri Kasam",
+        "Year": 2016,
+        "DirectorName": "Radhika Rao, Vinay Sapru",
+        "Genre": "Romantic Drama",
+        "Cast": "Harshvardhan Rane, Mawra Hocane"
+    },
+    {
+        "_id": "6673b33bc79f3ed745f0885d",
+        "MovieName": "Kedarnath",
+        "Year": 2018,
+        "DirectorName": "Abhishek Kapoor",
+        "Genre": "Romantic Disaster",
+        "Cast": "Sushant Singh Rajput, Sara Ali Khan"
+    },
+    {
+        "_id": "6673b33bc79f3ed745f0885e",
+        "MovieName": "PK",
+        "Year": 2014,
+        "DirectorName": "Rajkumar Hirani",
+        "Genre": "Science Fiction Comedy",
+        "Cast": "Aamir Khan, Anushka Sharma, Sushant Singh Rajput"
+    },
+    {
+        "_id": "6673b33bc79f3ed745f0885f",
+        "MovieName": "Jailer",
+        "Year": 2023,
+        "DirectorName": "Nelson Dilipkumar",
+        "Genre": "Action Comedy",
+        "Cast": "\tRajinikanth"
+    },
+    {
+        "_id": "6673b33bc79f3ed745f08860",
+        "MovieName": "Vikram",
+        "Year": 2022,
+        "DirectorName": "Lokesh Kanagaraj",
+        "Genre": "Action Thriller",
+        "Cast": "Kamal Haasan, Vijay Sethupathi"
+    },
+    {
+        "_id": "6673b33bc79f3ed745f08861",
+        "MovieName": "Pizza ",
+        "Year": 2014,
+        "DirectorName": "\tAkshay Akkineni",
+        "Genre": "Horror",
+        "Cast": "\tAkshay Oberoi, Parvathy Omanakuttan"
+    },
+    {
+        "_id": "6673b33bc79f3ed745f08862",
+        "MovieName": "Kanchana",
+        "Year": 2011,
+        "DirectorName": "Raghava Lawrence",
+        "Genre": "Horror Comedy",
+        "Cast": "Raghava Lawrence, R. Sarathkumar, Kovai Sarala, Lakshmi Rai"
+    },
+    {
+        "_id": "6673b33bc79f3ed745f08863",
+        "MovieName": "Pushpa",
+        "Year": 2021,
+        "DirectorName": "Sukumar",
+        "Genre": "Action Drama",
+        "Cast": "Allu Arjun, Rashmika Mandanna"
+    },
+    {
+        "_id": "6673b33bc79f3ed745f08864",
+        "MovieName": "Khaleja",
+        "Year": 2010,
+        "DirectorName": "Trivikram Srinivas",
+        "Genre": "Fantasy Action Comedy",
+        "Cast": "Mahesh Babu, Anushka Shetty, Prakash Raj"
+    },
+    {
+        "_id": "6673b33bc79f3ed745f08865",
+        "MovieName": "Bajrangi Bhaijaan",
+        "Year": 2015,
+        "DirectorName": "Kabir Khan",
+        "Genre": "Comedy Drama",
+        "Cast": "Salman Khan, Harshaali Malhotra, Kareena Kapoor Khan"
+    },
+    {
+        "_id": "6673b33bc79f3ed745f08866",
+        "MovieName": "Sanju",
+        "Year": 2018,
+        "DirectorName": "Rajkumar Hirani",
+        "Genre": "Biological",
+]
